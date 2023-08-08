@@ -1,0 +1,8 @@
+{
+  "name": "ionicM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "c6f637af"
+}
